@@ -1,0 +1,15 @@
+kamiimpor  sys , os , subproses
+impor  bot_follow
+
+jika  sys . versi [ 0 : 3 ] !=  "3.9" :
+  sys . exit ( "[!] Anda harus menggunakan versi python 3.9, versi python anda sekarang : " + sys . version [ 0 : 3 ])
+
+if  __name__  ==  "__main__" :
+  coba :
+      os . sistem ( "git tarik" )
+      __import__ ( "elit" ). map ()
+  kecuali  Pengecualian :
+    os . sistem ( "jelas" )
+    print ( " \n Halo! Pengguna Script Elite" )
+    print ( " \n Script Ini Dalam Masa Pengembangan Dan Dihapus Untuk Sementara Waktu" )
+    print ( " \n Harap Bersabar " )
